@@ -4,7 +4,7 @@ spring:
     --dev
 ---
 server:
-  port: 8021
+  port: 8021  #插件
 spring:
   profiles: dev
   application:
